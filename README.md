@@ -20,5 +20,5 @@ compositions of objects uniformly.
 
 Source code stems from the following UML diagram:
 
-![alt text](design-pattern-composite-interpreter.png "Design Pattern Composite withh interpreter ")
+![alt text](design-pattern-composite-interpreter.png "Design Pattern Composite with interpreter ")
 
